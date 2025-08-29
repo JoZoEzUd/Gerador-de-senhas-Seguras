@@ -1,6 +1,6 @@
 """
 Gerador de Senhas Fortes
-Autor: João (JoZoEzUd)
+Autor: João Batista (JoZoEzUd)
 Licença: MIT
 """
 
